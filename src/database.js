@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
 
-const uri = "mongodb://127.0.0.1:27017/YoutubeBackend";
+const uri = "mongodb+srv://prueba:prueba@cluster0.44oen5q.mongodb.net/test";
 
 mongoose.set('strictQuery', false)
 
